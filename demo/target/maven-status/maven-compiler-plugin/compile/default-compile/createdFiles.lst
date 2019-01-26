@@ -1,0 +1,16 @@
+com\example\demo\Controller\ManagerController.class
+com\example\demo\DemoApplication.class
+com\example\demo\Controller\GenderController.class
+com\example\demo\Repository\GenderRepository.class
+com\example\demo\Repository\BandRepository.class
+com\example\demo\Repository\ArtistsRepository.class
+com\example\demo\Repository\TypeMusicRepository.class
+com\example\demo\Controller\TypeMusicController.class
+com\example\demo\Repository\ManagerRepository.class
+com\example\demo\Entity\TypeMusic.class
+com\example\demo\Entity\Gender.class
+com\example\demo\Controller\BandController.class
+com\example\demo\Entity\Band.class
+com\example\demo\Controller\ArtistsController.class
+com\example\demo\Entity\Artists.class
+com\example\demo\Entity\Manager.class
